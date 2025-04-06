@@ -1,2 +1,2 @@
 def area_triangolo(base, altezza):
-  pass
+  return base*altezza/2

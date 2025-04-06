@@ -1,2 +1,2 @@
 def area_cerchio(raggio):
-  pass
+  return raggio*raggio*3.14
