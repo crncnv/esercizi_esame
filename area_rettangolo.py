@@ -1,2 +1,2 @@
 def area_rettangolo(base, altezza):
-  pass
+  return base*altezza
