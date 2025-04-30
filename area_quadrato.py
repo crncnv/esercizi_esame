@@ -1,2 +1,2 @@
 def area_quadrato(lato):
-  pass
+  return lato*lato
